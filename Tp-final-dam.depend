@@ -1,0 +1,129 @@
+# depslib dependency file v1.0
+1654218408 source:g:\facultad\programacion\tps\tp-final-dam\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<conio.h>
+	<locale.h>
+
+1654045849 source:g:\facultad\programacion\tps\tp-final-dam\dom.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1654045918 g:\facultad\programacion\tps\tp-final-dam\dom.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"main.c"
+
+1654045813 g:\facultad\programacion\tps\tp-final-dam\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"DOM.c"
+
+1655428746 source:d:\facultad\programacion\tps\tp-final-dam\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<conio.h>
+	<locale.h>
+	"fnUser.h"
+	"gotoxy.h"
+
+1655600122 source:d:\facultad\programacion\tps\tp-final-dam\fncombat.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<conio.h>
+	<locale.h>
+	"fnUser.h"
+
+1655602563 d:\facultad\programacion\tps\tp-final-dam\fnuser.h
+
+1655602827 source:d:\facultad\programacion\tps\tp-final-dam\fnscreen.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<conio.h>
+	<locale.h>
+	<windows.h>
+	<winuser.h>
+	<locale.h>
+	"fnUser.h"
+	"gotoxy.h"
+
+1491400450 source:d:\facultad\programacion\tps\tp-final-dam\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1655426883 source:d:\facultad\programacion\tps\tp-final-dam\fnuser.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<conio.h>
+	<locale.h>
+	"fnUser.h"
+
+1491399896 d:\facultad\programacion\tps\tp-final-dam\gotoxy.h
+
+1654995807 source:d:\facultad\programacion\tps\tp-final-dam\main(s).c
+
+1491357250 source:e:\facultad\programacion\tps\tp-final-dam\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1655999724 source:e:\facultad\programacion\tps\tp-final-dam\fncombat.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<conio.h>
+	<locale.h>
+	"fnUser.h"
+
+1655997692 e:\facultad\programacion\tps\tp-final-dam\fnuser.h
+
+1656001350 source:e:\facultad\programacion\tps\tp-final-dam\fnscreen.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<conio.h>
+	<locale.h>
+	<windows.h>
+	<winuser.h>
+	<locale.h>
+	"fnUser.h"
+	"gotoxy.h"
+
+1491356696 e:\facultad\programacion\tps\tp-final-dam\gotoxy.h
+
+1659531374 source:e:\facultad\programacion\tps\tp-final-dam\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<conio.h>
+	<locale.h>
+	"fnUser.h"
+	"gotoxy.h"
+
+1659531491 source:e:\facultad\programacion\tps\tp-final-dam\fnuser.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<conio.h>
+	<locale.h>
+	"fnUser.h"
+
